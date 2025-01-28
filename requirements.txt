@@ -1,0 +1,18 @@
+# requirements.txt
+Flask==2.3.3
+Werkzeug==2.3.7
+Flask-SQLAlchemy==3.0.5
+Flask-Login==0.6.2
+Flask-Session==0.5.0
+psycopg2
+python-dotenv==1.0.0
+requests==2.31.0
+Flask-OAuthlib==0.9.6
+PyJWT==2.8.0
+bcrypt==4.0.1
+email-validator==2.0.0
+flask-oauthlib
+requests
+python-jose
+flasgger
+flask-cors
